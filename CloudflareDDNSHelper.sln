@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CloudflareDDNSHelper", "CloudflareDDNSHelper\CloudflareDDNSHelper.csproj", "{32B6A75D-2F8F-4779-974B-0486A0E06474}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{32B6A75D-2F8F-4779-974B-0486A0E06474}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{32B6A75D-2F8F-4779-974B-0486A0E06474}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{32B6A75D-2F8F-4779-974B-0486A0E06474}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{32B6A75D-2F8F-4779-974B-0486A0E06474}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AF6FD115-60EB-4C21-8336-E234705588AA}
+	EndGlobalSection
+EndGlobal
